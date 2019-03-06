@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhotoViewerApplication</string>
+    <string name="api_server_url">http://api.photozou.jp</string>
+</resources>
